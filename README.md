@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simon Ferns
 
-## Web Developer | Game developer | Vim Simp
+## Web Developer | Game developer | Bot Developer | Typing Simp | Vim Simp
 
 I have been learning code on and off from JUN 2022, but committed to the coding grind after Andrew Tate motivated me to.
 
